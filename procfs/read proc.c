@@ -9,3 +9,4 @@ void main(void)
 	read(fd, buf, 100);
 	printf("%s",buf);
 }	
+  
